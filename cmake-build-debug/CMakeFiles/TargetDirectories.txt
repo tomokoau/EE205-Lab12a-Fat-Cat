@@ -1,0 +1,3 @@
+/tmp/tmp.bAOQsFrucT/cmake-build-debug/CMakeFiles/EE205_Lab12a_Fat_Cat.dir
+/tmp/tmp.bAOQsFrucT/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/tmp.bAOQsFrucT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
